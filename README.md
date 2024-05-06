@@ -1,2 +1,2 @@
 # Chatbot-Overflow---Piotr-Piwnik
-Shared repository for the Master Thesis 
+Repository with my Master Thesis and the complete code used to analyze the Stack Exchange data.
